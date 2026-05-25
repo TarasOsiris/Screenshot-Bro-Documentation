@@ -69,11 +69,6 @@ Yes — opt-in iCloud Drive sync keeps projects, screenshots, and fonts availabl
 
 - [Fastlane snapshot vs Screenshot Bro](comparisons/vs-fastlane-snapshot.md)
 
-## Legal
-
-- [Privacy Policy](docs/privacy.md)
-- [Terms of Use](docs/terms.md)
-
 ## Links
 
 - [Website](https://screenshotbro.app)
