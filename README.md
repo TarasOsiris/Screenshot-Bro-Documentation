@@ -6,6 +6,8 @@ Screenshot Bro is a native macOS app for creating polished, store-ready marketin
 
 [Get on the Mac App Store](https://apps.apple.com/us/app/screenshot-bro/id6760177675?ref=github-docs)
 
+[Website](https://screenshotbro.app?ref=github-docs)
+
 ## Features
 
 - **Multi-Template Editing** — Edit once, update every variant. Change a shape or text and it flows across all your screenshots simultaneously.
