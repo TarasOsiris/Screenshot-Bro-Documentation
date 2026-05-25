@@ -1,12 +1,18 @@
-# Screenshot Bro
+<p align="center">
+  <img src="icon.png" width="128" height="128" alt="Screenshot Bro app icon">
+</p>
 
-**Design and upload App Store and Google Play screenshots in minutes.**
+<h1 align="center">Screenshot Bro</h1>
+
+<p align="center"><strong>Design and upload App Store and Google Play screenshots in minutes.</strong></p>
+
+<p align="center">
+  <a href="https://apps.apple.com/us/app/screenshot-bro/id6760177675?ref=github-docs">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="48">
+  </a>
+</p>
 
 Screenshot Bro is a native macOS app for creating polished, store-ready marketing screenshots. Drop in a screenshot, pick a device frame, add a headline, and export at exactly the resolution the App Store and Google Play expect.
-
-[Get on the Mac App Store](https://apps.apple.com/us/app/screenshot-bro/id6760177675?ref=github-docs)
-
-[Website](https://screenshotbro.app?ref=github-docs)
 
 ## Features
 
