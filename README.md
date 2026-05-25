@@ -65,20 +65,6 @@ Yes — opt-in iCloud Drive sync keeps projects, screenshots, and fonts availabl
 - [Project File Schema](docs/project-schema.md) — JSON Schema for generating, validating, or transforming project files with AI and scripts.
 - [Changelog](docs/changelog.md) — Release notes for every version.
 
-## Blog
-
-- [How to Design App Store Screenshots That Actually Convert](blog/screenshots-that-convert.md)
-- [Localizing App Store Screenshots Without Losing Your Mind](blog/localize-app-store-screenshots.md)
-- [App Store Screenshot Sizes for Every Apple Device in 2026](blog/app-store-screenshot-sizes.md)
-- [Screenshot Sizes for App Store and Google Play (2026)](blog/screenshot-sizes-app-store-google-play.md)
-- [How to Upload Screenshots to App Store Connect (2026 Guide)](blog/upload-screenshots-to-app-store-connect.md)
-- [Fastlane: Make and Ship App Store Screenshots (2026 Guide)](blog/make-and-ship-screenshots-with-fastlane.md)
-- [Best App Store Screenshot Tools for Indie Developers](blog/best-app-store-screenshot-tools.md)
-- [How to Design App Store Screenshots in Figma](blog/design-app-store-screenshots-in-figma.md)
-- [Custom Product Pages: App Store Screenshots for Campaigns](blog/custom-product-pages-app-store-screenshots.md)
-- [How to A/B Test App Store and Google Play Screenshots](blog/ab-test-app-store-screenshots.md)
-- [Google Play Screenshot Sizes and Requirements](blog/google-play-screenshot-sizes-requirements.md)
-
 ## Comparisons
 
 - [Fastlane snapshot vs Screenshot Bro](comparisons/vs-fastlane-snapshot.md)
