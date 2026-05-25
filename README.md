@@ -4,7 +4,7 @@
 
 Screenshot Bro is a native macOS app for creating polished, store-ready marketing screenshots. Drop in a screenshot, pick a device frame, add a headline, and export at exactly the resolution the App Store and Google Play expect.
 
-[Get on the Mac App Store](https://apps.apple.com/us/app/screenshot-bro/id6760177675)
+[Get on the Mac App Store](https://apps.apple.com/us/app/screenshot-bro/id6760177675?ref=github-docs)
 
 ## Features
 
@@ -71,8 +71,8 @@ Yes — opt-in iCloud Drive sync keeps projects, screenshots, and fonts availabl
 
 ## Links
 
-- [Website](https://screenshotbro.app)
-- [Mac App Store](https://apps.apple.com/us/app/screenshot-bro/id6760177675)
+- [Website](https://screenshotbro.app?ref=github-docs)
+- [Mac App Store](https://apps.apple.com/us/app/screenshot-bro/id6760177675?ref=github-docs)
 - [Reddit Community](https://www.reddit.com/r/ScreenshotBro/)
 - [X / Twitter](https://x.com/soycastic)
 - [Threads](https://www.threads.com/@soycastic)
