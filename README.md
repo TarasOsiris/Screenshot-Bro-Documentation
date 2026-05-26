@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://apps.apple.com/us/app/screenshot-bro/id6760177675?ref=github-docs">
-    <img rc="icon.png" alt="Download on the Mac App Store" height="48">
+    <img src="icon.png" alt="Download on the Mac App Store" height="48">
   </a>
 </p>
 
